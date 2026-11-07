@@ -196,3 +196,6 @@ This repository serves as the official landing page for HEVC Video Player Pro. T
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HEVC Video Player Pro today!**
+
+---
+**Last updated:** 2026-11-07 15:27:56 UTC
